@@ -16,7 +16,8 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/809/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OWQ5YTk1NzAtNGUyMi0zZmY5LWFlM2UtZmZmNzZhMzMwMzE3
 #EXTINF:-1 tvg-id="103.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png" group-logo="" group-title="",TV3 test
-https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
+https://web.hypp.tv/PLTV/88888888/224/3221227779/3221227779.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=5P%2FZmSAoS0sKZqU8B1%2BiBYYEAI2LjVtl%2FnTNmW9yrQv82EZbmp1li2ohn%2BB6tQviEVVPx07cAmFqnmi%2Fky0uafHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20240430114144%3AUTC%2C1005926114%2C118.100.29.203%2C20240430114144%2Curn:Huawei:liveTV:iptv182%2C1005926114%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1615850%2C0%2C521145%2C2391471149%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy27CMBRE_8ZLK3YeJguvQEiVqlCJ0G01jm9MhBODHZD695A2bGfmjM4c0dHHThOqMreyVBuTF3llICvVG4MMGwtDiiW6NUFL1sH7YXJNsAv2fdz-iIxnXErBZc7a5W7v4dZlcx8NRS3e2JHiY-hI29TzBxKHc5Ec5iFM_Mvj9xT9OmHUrmpCiaKohahVXSg2L2mLdHk17Iy0DeMVkexncH-A7uETsSu6Cxw1GElPd-__uUO0L5snkAqB4PQAAAA&tenantId=6001
+#####https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 tvg-id="TV6" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv6_Trans.png" group-logo="" group-title="" ,TV6 
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
