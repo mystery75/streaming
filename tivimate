@@ -14,7 +14,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OWQ5YTk1NzAtNGUyMi0zZmY5LWFlM2UtZmZmNzZhMzMwMzE3
 #EXTINF:-1 tvg-id="103.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png" group-logo="" group-title="",TV3 test
 https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 
