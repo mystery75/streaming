@@ -241,6 +241,12 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/1001/default_primary.mp
 #EXTINF:-1 tvg-id="416.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="",tvN Movies 
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
+#EXTINF:-1 tvg-id="506" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-logo="" group-title="",&flix
+http://opplextv.cyou:8080//live/7262771/7272772/66236.ts
+
+#EXTINF:-1 tvg-id="530" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/%26priv%C3%A9.png" group-logo="" group-title="",&prive
+http://opplextv.cyou:8080//live/7262771/7272772/66236.ts
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wyGv4WibB9W35VvQJcSDzg", "kid":"wkp4EdmrRrSLdGoOfiaSEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="701.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="",Axn  
@@ -343,12 +349,14 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MaxStream.png" group-logo="" group-logo="" group-title="",Max Stream
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id=="NET.id" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Net.png" group-title="",NET.
-https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
+#EXTINF:-1 tvg-id="210" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MN%2B.png" group-logo="" group-logo="" group-title="",MN+  
+http://opplextv.cyou:8080//live/7262771/7272772/66244.ts
+
+#EXTINF:-1 tvg-id="599" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MNX.png" group-logo="" group-title="",MNX
+http://opplextv.cyou:8080//live/7262771/7272772/66266.ts
+
+#EXTINF:-1 tvg-id="173" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png" group-logo="" group-title="",Movies Now
+http://opplextv.cyou:8080//live/7262771/7272772/66271.ts
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -363,6 +371,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/mycinema/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=73637476303030303030303030303030:6a22f33ee77fab96b318fe3dd7e1335d
 #EXTINF:-1 tvg-id="MyCinemaAsia" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Mca.png" group-logo="" group-title="",My Cinema Asia
 https://cdn08jtedge.indihometv.com/dassdvr/133/mycinemaasia/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-id=="NET.id" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Net.png" group-title="",NET.
+https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
@@ -381,6 +396,9 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5054/default_primary.mp
 
 #EXTINF:-1 tvg-id="32" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-logo="" group-title="",Sony Pix    
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+
+#EXTINF:-1 tvg-id="560" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png" group-logo="" group-title="",Star Movies
+http://opplextv.cyou:8080//live/7262771/7272772/66211.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
