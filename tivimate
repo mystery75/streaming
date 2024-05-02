@@ -31,7 +31,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/1113/default_primary.mp
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 
 #EXTINF:-1 tvg-id="147.astro" tvg-logo="https://didik.tv/images/logotv2.png" group-logo="" group-title="", DIDIK TV KPM 
-https://raw.githubusercontent.com/mystery75/m3u8/main/DIDIKTVKPM .m3u8
+https://raw.githubusercontent.com/mystery75/m3u8/main/DIDIKTVKPM.m3u8
 
 #EXTINF:-1 tvg-id="Okey" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/okey_Trans.png" group-logo="" group-title="",Okey 
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
