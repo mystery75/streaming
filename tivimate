@@ -245,7 +245,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2406/default_primary.m
 http://opplextv.cyou:8080//live/7262771/7272772/66236.ts
 
 #EXTINF:-1 tvg-id="530" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/%26priv%C3%A9.png" group-logo="" group-title="",&prive
-http://opplextv.cyou:8080//live/7262771/7272772/66236.ts
+http://opplextv.cyou:8080//live/7262771/7272772/66228.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wyGv4WibB9W35VvQJcSDzg", "kid":"wkp4EdmrRrSLdGoOfiaSEA" } ], "type":"temporary" }
