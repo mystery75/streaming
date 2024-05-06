@@ -37,6 +37,9 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/DIDIKTVKPM.m3u8
 #EXTINF:-1 tvg-id="Okey" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/okey_Trans.png" group-logo="" group-title="",Okey 
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
+#EXTINF:-1 tvg-id="116" ch-number="116" tvg-chno="116" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SukaTV.png" group-logo="" group-title="",SukaTV
+https://raw.githubusercontent.com/mystery75/m3u8/main/SUKATV.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vcyu6IazQN2QH0v43Z06ag", "kid":"w+lWs4rpk74UlMfPoXsREA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="122.astro" tvg-logo="https://playtv.unifi.com.my:7051/CPS/images/universal/film/logo/202401/20240108/2024010804385071891k.png" group-title="",TVS
