@@ -74,7 +74,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=web.hy
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NTg1MGJkZWEtMTA4Ny0zM2MzLWFkMDMtZmU2OGZmNzU0N2I5
-#####EXTINF:-1 tvg-id="116.unifi" ch-number="116" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png" group-logo="" group-title="",Sensasi 
+#EXTINF:-1 tvg-id="116.unifi" ch-number="116" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png" group-logo="" group-title="",Sensasi 
 https://web.hypp.tv:443/PLTV/88888888/224/3221227598/3221227598.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=5P%2FZmSAoS0sKZqU8B1%2BiBYYEAI2LjVtl%2FnTNmW9yrQsxqqazdBE1o4zBbaxkudzwQXGWm5fvP0ChE34GInmPefHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20240506150528%3AUTC%2C1005926113%2C118.100.29.203%2C20240506150528%2Curn:Huawei:liveTV:SP000004015718%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1615850%2C0%2C521145%2C2391471149%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQQ7CIBREb8OSAKUSF6w0Jiammljdmg_8YlNaFKqJt9dq3c7Mm7wxgcXtWhdWolSIjXJWMrkwBguzkKVinBnBLMl4r6IWxEII7eCr6CbsfFxdOKOMCsGpKEg93W0C-HlZPXqDSfM_dsT0bC1qlxv6hEzB-4QexjYO9BDgdUphnhCsZzWueMmEKNSy5EsyTmkNufs05Ap5FfsbJHS76L-AbiBkJDewHXisoEc9PEL4cfvkPjZvrz8sAvQAAAA&tenantId=6001
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
