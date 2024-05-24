@@ -396,7 +396,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/mycinemaasia/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id=="NET.id" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Net.png" group-title="",NET.
+#EXTINF:-1 tvg-id=="NET.id" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Net.png" group-title="",NET
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
