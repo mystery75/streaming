@@ -385,9 +385,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/mycinema/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="MyCinemaAsia" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Mca.png" group-logo="" group-title="",My Cinema Asia
-https://cdn08jtedge.indihometv.com/dassdvr/133/mycinemaasia/manifest.mpd
+http://210.210.155.35/uq2663/h/h193/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Asia
+#https://cdn08jtedge.indihometv.com/dassdvr/133/mycinemaasia/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
