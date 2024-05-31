@@ -376,7 +376,7 @@ http://opplextv.cyou:8080//live/7262771/7272772/66266.ts
 http://opplextv.cyou:8080//live/7262771/7272772/66271.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keyId":"212af43496a75f4281cad7c09f683e71","key":"10c2164c3ebd069a359cfabec36a9c2d"}
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EMIWTD69Bpo1nPq+w2qcLQ", "kid":"ISr0NJanX0KBytfAn2g+cQ" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="ts173" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png" group-logo="" group-title="",Movies Now 2
 https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_563/output/manifest.mpd?begin=20240530T010000&end=20240606T160000
 
