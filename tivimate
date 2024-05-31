@@ -369,14 +369,24 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #EXTINF:-1 tvg-id="ts210" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MN%2B.png" group-logo="" group-logo="" group-title="",MN+  
 http://opplextv.cyou:8080//live/7262771/7272772/66244.ts
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"i+XwWu25sMW8Zz7+p+9bDg","kid":"kO+J6stGUEeclnzph9A0vg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ts210" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MN%2B.png" group-logo="" group-logo="" group-title="",MN+ 2
+https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_259/output/manifest.mpd|cookie:hdntl=exp=1717219935~acl=%2f*~data=hdntl~hmac=da65f084d804216de299d07e27bae8daca6b3858319d16dee1123365bfadcb51
+
 #EXTINF:-1 tvg-id="ts599" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MNX.png" group-logo="" group-title="",MNX
 http://opplextv.cyou:8080//live/7262771/7272772/66266.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DFCR2X41EW+PcpGp6z5ttA","kid":"XD0fbc8tXXqZGwqXU3Kk9Q"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ts599" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MNX.png" group-logo="" group-title="",MNX 2
+https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_636/output/manifest.mpd|cookie:hdntl=exp=1717219935~acl=%2f*~data=hdntl~hmac=da65f084d804216de299d07e27bae8daca6b3858319d16dee1123365bfadcb51
 
 #EXTINF:-1 tvg-id="ts173" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png" group-logo="" group-title="",Movies Now
 http://opplextv.cyou:8080//live/7262771/7272772/66271.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EMIWTD69Bpo1nPq+w2qcLQ", "kid":"ISr0NJanX0KBytfAn2g+cQ" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Q/LDbFOmeMLhO62eufZ6Zw","kid":"SOHbjB/JU8u/N8i8U3R81g"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts173" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png" group-logo="" group-title="",Movies Now 2
 https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_235/output/manifest.mpd|cookie:hdntl=exp=1717219935~acl=%2f*~data=hdntl~hmac=da65f084d804216de299d07e27bae8daca6b3858319d16dee1123365bfadcb51
 
