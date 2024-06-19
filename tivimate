@@ -255,7 +255,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
 #EXTINF:-1 tvg-id="ts506" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-logo="" group-title="",&flix
-https://tgaadi-web.tech/api/aadi.php?tv=11624
+https://tgaadi-web.tech/api/aadi.php?tv=718
 #https://tgaadi-web.tech/trex.php?tv=1116484
 #http://opplextv.cyou:8080//live/7262771/7272772/66236.m3u8
 
@@ -382,7 +382,7 @@ https://tgaadi-web.tech/api/aadi.php?tv=17035
 #http://opplextv.cyou:8080//live/7262771/7272772/66244.m3u8
 
 #EXTINF:-1 tvg-id="ts599" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MNX.png" group-logo="" group-title="",MNX
-https://tgaadi-web.tech/api/aadi.php?tv=11650
+https://tgaadi-web.tech/api/aadi.php?tv=17032
 #http://opplextv.cyou:8080//live/7262771/7272772/66266.m3u8
 
 #EXTINF:-1 tvg-id="ts173" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png" group-logo="" group-title="",Movies Now
@@ -427,7 +427,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227637/3221227637.mpd?rrsip=web.hy
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
 #EXTINF:-1 tvg-id="32" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-logo="" group-title="",Sony Pix
-https://tgaadi-web.tech/zain_tv.php?tv=108297
+https://tgaadi-web.tech/api/aadi.php?tv=17029
 #https://tgaadi-web.tech/trex.php?tv=1116481
 #http://opplextv.cyou:8080//live/7262771/7272772/66224.m3u8
 #https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
