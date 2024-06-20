@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
 
 
 
@@ -390,8 +390,11 @@ https://tgaadi-web.tech/api/aadi.php?tv=17017
 #https://tgaadi-web.tech/trex.php?tv=282651
 #http://opplextv.cyou:8080//live/7262771/7272772/66271.m3u8
 
-#EXTINF:-1 tvg-id="4984" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MovieSphere.png" group-logo="" group-title="",MovieSphere
+#EXTINF:-1 tvg-id="GBBA33000557H" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MovieSphere.png" group-logo="" group-title="",MovieSphere
 https://i.mjh.nz/SamsungTVPlus/GBBA33000557H.m3u8
+
+#EXTINF:-1 tvg-id="USBD17000117B" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MovieSphereByLionsgate.png" group-logo="" group-title="",MovieSphere By Lionsgate
+https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
