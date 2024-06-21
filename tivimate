@@ -255,12 +255,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
 #EXTINF:-1 tvg-id="ts506" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-logo="" group-title="",&flix
-https://tgaadi-web.tech/api/aadi.php?tv=718
+https://tgaadi-web.tech/zain_tv.php?tv=108235
+#https://tgaadi-web.tech/api/aadi.php?tv=718
 #https://tgaadi-web.tech/trex.php?tv=1116484
 #http://opplextv.cyou:8080//live/7262771/7272772/66236.m3u8
 
 #EXTINF:-1 tvg-id="ts530" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/%26priv%C3%A9.png" group-logo="" group-title="",&prive
-https://tgaadi-web.tech/api/aadi.php?tv=11618
+https://tgaadi-web.tech/zain_tv.php?tv=108275
+#https://tgaadi-web.tech/api/aadi.php?tv=11618
 #https://tgaadi-web.tech/trex.php?tv=155746
 #http://opplextv.cyou:8080//live/7262771/7272772/66228.m3u8
 
@@ -377,16 +379,19 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 #EXTINF:-1 tvg-id="ts210" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MN%2B.png" group-logo="" group-logo="" group-title="",MN+  
-https://tgaadi-web.tech/api/aadi.php?tv=17035
+https://tgaadi-web.tech/jiotv.php?tv=1480
+#https://tgaadi-web.tech/api/aadi.php?tv=17035
 #https://tgaadi-web.tech/trex.php?tv=156025
 #http://opplextv.cyou:8080//live/7262771/7272772/66244.m3u8
 
 #EXTINF:-1 tvg-id="ts599" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MNX.png" group-logo="" group-title="",MNX
-https://tgaadi-web.tech/api/aadi.php?tv=17032
+https://tgaadi-web.tech/jiotv.php?tv=1482
+#https://tgaadi-web.tech/api/aadi.php?tv=17032
 #http://opplextv.cyou:8080//live/7262771/7272772/66266.m3u8
 
 #EXTINF:-1 tvg-id="ts173" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png" group-logo="" group-title="",Movies Now
-https://tgaadi-web.tech/api/aadi.php?tv=17017
+https://tgaadi-web.tech/zain_tv.php?tv=108279
+#https://tgaadi-web.tech/api/aadi.php?tv=17017
 #https://tgaadi-web.tech/trex.php?tv=282651
 #http://opplextv.cyou:8080//live/7262771/7272772/66271.m3u8
 
@@ -433,7 +438,8 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227637/3221227637.mpd?rrsip=web.hy
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
 #EXTINF:-1 tvg-id="32" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-logo="" group-title="",Sony Pix
-https://tgaadi-web.tech/api/aadi.php?tv=17029
+https://tgaadi-web.tech/jiotv.php?tv=1488
+#https://tgaadi-web.tech/api/aadi.php?tv=17029
 #https://tgaadi-web.tech/trex.php?tv=1116481
 #http://opplextv.cyou:8080//live/7262771/7272772/66224.m3u8
 #https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
@@ -444,7 +450,8 @@ https://tgaadi-web.tech/jiotv.php?tv=1487
 #http://opplextv.cyou:8080//live/7262771/7272772/66213.m3u8
 
 #EXTINF:-1 tvg-id="593" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMoviesSelect.png" group-logo="" group-title="",Star Movies Select 
-https://tgaadi-web.tech/api/aadi.php?tv=17092
+https://tgaadi-web.tech/zain_tv.php?tv=56244
+#https://tgaadi-web.tech/api/aadi.php?tv=17092
 #https://tgaadi-web.tech/trex.php?tv=155729
 #http://opplextv.cyou:8080//live/7262771/7272772/66315.m3u8
 
