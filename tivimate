@@ -661,7 +661,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 https://7pal.short.gy/SSF1uhd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"Authorization":"eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJuYmYiOjE3MTkzNjczMjAsImV4cCI6MTc1MDkwMzkyMCwiaWF0IjoxNzE5MzY3NjI3LCJjb250ZW50X2lkIjoiVGhlX01vdmllX0h1Yl9BY3Rpb25fVVNfUHJvZCIsInVzZXJfaWQiOiJ1X0hRR3NOdjUzaFEwIn0.JiXvnGLzxMLtPzvpnfN5CXHEpaq6GIs9R9evGDJe__vlwvmnRv5NUIX8D6QVR0rQh_ifyLWlIsl3derf5R0ZkA"}
+#EXTHTTP:"headers":{"Authorization":"eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJuYmYiOjE3MTkzNjczMjAsImV4cCI6MTc1MDkwMzkyMCwiaWF0IjoxNzE5MzY3NjI3LCJjb250ZW50X2lkIjoiVGhlX01vdmllX0h1Yl9BY3Rpb25fVVNfUHJvZCIsInVzZXJfaWQiOiJ1X0hRR3NOdjUzaFEwIn0.JiXvnGLzxMLtPzvpnfN5CXHEpaq6GIs9R9evGDJe__vlwvmnRv5NUIX8D6QVR0rQh_ifyLWlIsl3derf5R0ZkA"}
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20240625T011418SQUARE.png" group-logo="" group-title="",Movie Hub Action
