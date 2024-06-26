@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
 
 
 
@@ -389,14 +389,17 @@ https://tgaadi-web.tech/jazz.php?id=2733
 ##EXTINF:-1 tvg-id="GBBA33000557H" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MovieSphere.png" group-logo="" group-title="",MovieSphere
 #https://i.mjh.nz/SamsungTVPlus/GBBA33000557H.m3u8
 
+#EXTINF:-1 tvg-id="USBD2500012DH" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/EbonyByLionsgate.png" group-logo="" group-title="",Ebony By Lionsgate
+https://d2ovuv4g3vka60.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ve0q4gx2q5590/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/HerSphereByLionsgate.png" group-logo="" group-title="",HerSphere by Lionsgate
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8
+
 #EXTINF:-1 tvg-id="USBD17000117B" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MovieSphereByLionsgate.png" group-logo="" group-title="",MovieSphere By Lionsgate
-https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
+https://dxazj2uf8uiwf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ra9rjcmiktyz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USBD1200007FE" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/OuterSphereByLionsgate.png" group-logo="" group-title="",OuterSphere by Lionsgate
-https://i.mjh.nz/SamsungTVPlus/USBD1200007FE.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/HerSphereByLionsgate.png" group-logo="" group-title="",HerSphere by Lionsgate
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8
+https://d3o593mz1glx8d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/OuterSphere_US.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
