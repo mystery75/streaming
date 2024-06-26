@@ -386,11 +386,14 @@ https://tgaadi-web.tech/jazz.php?id=2733
 #https://tgaadi-web.tech/jiotv.php?tv=1481
 #http://opplextv.cyou:8080//live/7262771/7272772/66271.m3u8
 
-#EXTINF:-1 tvg-id="GBBA33000557H" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MovieSphere.png" group-logo="" group-title="",MovieSphere
-https://i.mjh.nz/SamsungTVPlus/GBBA33000557H.m3u8
+##EXTINF:-1 tvg-id="GBBA33000557H" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MovieSphere.png" group-logo="" group-title="",MovieSphere
+#https://i.mjh.nz/SamsungTVPlus/GBBA33000557H.m3u8
 
 #EXTINF:-1 tvg-id="USBD17000117B" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MovieSphereByLionsgate.png" group-logo="" group-title="",MovieSphere By Lionsgate
 https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
+
+#EXTINF:-1 tvg-id="USBD1200007FE" tvg-logo="OuterSphereByLionsgate.png" group-logo="" group-title="",OuterSphere by Lionsgate
+https://i.mjh.nz/SamsungTVPlus/USBD1200007FE.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
