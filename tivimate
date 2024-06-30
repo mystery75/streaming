@@ -351,6 +351,11 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/606/default_primary.mp
 #EXTINF:-1 tvg-id="401.astro" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/HitsMoviesV2.png" group-title="",Hits Movies   
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OWM1ZGFlNWItNjNjZi0zZGVhLTkyN2YtYWRkYjFlMjM0MTVi
+#EXTINF:-1 tvg-id=".unifi" ch-number="474" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202309/20230913/20230913232606376llq.png" group-logo="" group-title="",Hits Movies 
+https://web.hypp.tv/PLTV/88888888/224/3221227887/3221227887.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=5P%2FZmSAoS0sKZqU8B1%2BiBfAH%2FCWEDunMQVe6YshALilKoeP%2BAIK%2FHX94FzzG0kNP98FeEd3vHhHJ%2BuKpjenq7fHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20240630115304%3AUTC%2C1005926113%2C118.100.197.192%2C20240630115304%2Curn:Huawei:liveTV:XTV52014611%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1615850%2C0%2C521145%2C144796741%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOyw6CMBRE_6bLpg8EWXSlMTExaAK6NbfttRILxRZN_HtFcTszZ3LGCAa3ayUkZ5zrTGoJmcGlLlmZW9A5K4UUmJGE9yooQQx43_auCnbCTvXqzBllVAhORUGa6W7jwc3L6tFpjIr_sRrjszWobLrQJyQKzkV0MLahpwcPr2P084RgM6vxgpdFLhfZUjBGxiltIN0-DblCWoVugIh2F9wXUBfwCckA5gYOK-hQ9Q_vf9w-2o_NG6x1_Vv0AAAA&tenantId=6001
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"pNSb2ozSm6KIjHMrTn2dYw", "kid":"Qwfe9qKb7AgvjJPx+Y5ZEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="702.astro" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/HITSNOW.png" group-logo="" group-title="",Hits Now
