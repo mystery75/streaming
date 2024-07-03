@@ -5,6 +5,48 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pIRju2ABeKm/+zZ/gwDGZg","kid":"Fo+R69SEV5aRRsmYFUxn9Q"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023075X0-portrait.jpg",Aquaman 2018
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5da9c19bcbea8a6a4ef2035c_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Luy6zltn4A0Me7wqtqvLyQ","kid":"WuvU+tNXVECHLsTBw6+1JA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014110X0-portrait.jpg",Batman Begins 2005
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f9f139f6d048943f7680281_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QfbWkr4gRwm3ZhqP7EZ2BQ","kid":"fv2RICtbUhqYeYyzoP0ipw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/009233X0-portrait.jpg",The Dark Knight 2008
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7786dd3ae366782ad8dcee_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"J/b5WzTFbudVpXAl6gifrg","kid":"4joteoMSXiiYIqMEcFaRhQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/015176X0-portrait.jpg",Batman: The Dark Knight Rises 2012
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f9ac2526d048943f7679d56_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"znj/+HN9BnnHnRlOeQkRBQ","kid":"ANSeEXliWZGMNEBQ/gB6+Q"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/030447X0-portrait.jpg",Batman V Superman: Dawn Of Justice 2016
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6062d9c96d048943f77a0f62_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yaTdKdHjGh/NAaeFkMYdXQ","kid":"O6qQIZBvElRXyWiD2D4/bA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036967X0-portrait.jpg",Batman 2022
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/625530d2d940521074a0f2d4_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1SWGnREdcNbqooa6iyu4uQ","kid":"bS19bRS/UR/bW5KCVSByfw"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039381X0-portrait.jpg",Black Adam 2022
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63a0187dd940521074c0170e_hbovodhd/dash0/MYS_DOLBY_index.mpd
@@ -12,6 +54,195 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63a0187dd940521074c
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GjbBcsEBErFLJ9TJh3xwRA","kid":"FFurrfX8UIqZ+A+3MYa9Jw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/031726X0-portrait.jpg",Godzilla Vs. Kong 2021
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63e48965d940521074c68224_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"egI4etFZ5ZMLyuE75ptUOg","kid":"QXW8DKECVLiSRWP8Rtx02g"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021159X0-portrait.jpg",Jumper 2008
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5dee734acbea8a6a4ef88fad_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"U1RobWtrYalRxkz4zBfuGg","kid":"TDSE8QEoVNaxKNdcHuTKfw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/015423X0-portrait.jpg",Bourne Legacy 2012
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e785fc73a736626cecbf620_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"U1RobWtrYalRxkz4zBfuGg","kid":"TDSE8QEoVNaxKNdcHuTKfw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/015423X0-portrait.jpg",Bourne Legacy 2012
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e785fc73a736626cecbf620_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fw5gVJOwM9I8HYiG3Xiufw","kid":"SO0s1Hd2dheuUCSpy0QWkw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020305X0-portrait.jpg",Jason Bourne 2016
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636bcb5fd940521074bb26a4_hbovodhd/dash0/MYS_DOLBY_index.mp
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vHS7+0CRB5XlnMOHq/tFCA","kid":"1gmofy2CUD2T75/ywGWfag"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021415X0-portrait.jpg",Justice League 2017
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d849e73d9bf810a0bbcd4a0_hbovodhd/dash0/MYS_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SrdV1T/gOvaemHcaTvW5RQ","kid":"1UJZoup+ELwH05xNxjWX0A"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020535X0-portrait.jpg",Legend Of Tarzan 2016
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62282f07d9405210749cb6fc_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VobtgETYxHbVn0fVrOK4qg","kid":"I5ZiuwnPWByRUG9o2Iz8bA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/016860X0-portrait.jpg",Man Of Steel 2013
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/602f3cfc6d048943f7754cde_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{"kty":"oct","k":"NC5VdJ6e9bV8k3H8TACBMg","kid":"pyRO16VnjVITBnLEs89RTg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022781X0-portrait.jpg",Meg 2018
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e57e0cbea8a6a4eef676b_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"23hk+WeR8J2JP79MQJ9yAw","kid":"lAtRhk9KXmaH/oJEKikljA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041162X0-portrait.jpg",Meg 2: The Trench 2023
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fee5add940521074e10087_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yqVlg1hO922MiaOEzal8ww","kid":"ZzanwIubTCe3eU9Q7RdcUw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034406X0-portrait.jpg",Mortal Kombat 2021
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61b1ee3efbbcc21f45d1ba7a_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6tj/Tn/RXSsesMj0e7C6Rw","kid":"d+WCDo+1XV6X08YIqHVJJw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/011465X0-portrait.jpg",Ninja Assassin 2009
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f457ded6d048943f75fc26c_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DRujpUXgUXydKcRViQoD5A","kid":"fhMRm1StWGaSFOMJqaLS1A"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/012140X0-portrait.jpg",The Last Airbender 2010
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7fbc113ae366782ad9a846_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yP7R6nMguBYDhtmg+JSNlA","kid":"7/+K/9MKlCglpR16LmLA2w"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038087X0-portrait.jpg",The Lord Of The Rings: The Fellowship Of The Ring 2001
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342d5ffd940521074b74b4d_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/5r9UYHkRB7mJJiFZ0eTcg","kid":"Ebvdb7xjfyo1Rp40jvcXjQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038088X0-portrait.jpg",The Lord Of The Rings: The Two Towers 2002
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342d792d940521074b74b76_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ib2QZL3gOWQZtyC3Mjrwvw","kid":"U+VpMZDdy1IAAlRZhorAVA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038580X0-portrait.jpg",The Lord Of The Rings: Return Of The King 2003
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342eeadd940521074b74dcc_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"wN9+Q0M+fB8EfUPqPu0d7w","kid":"1FpyxR92Yf2pzVptxQS8oA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/017306X0-portrait.jpg",The Hobbit: An Unexpected Journey 2012
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63425881d940521074b73e6b_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RCithvGv1iCzNAndVbcs5g","kid":"gag1yZAe2T7Bu3idpNoM7g"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020855X0-portrait.jpg",The Hobbit: The Desolation Of Smaug 2013
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63424539d940521074b73c57_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"anAkUZ65vcYv+7idtp4Pzw","kid":"dh4aXno13+z+LuGlj5RxbA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020856X0-portrait.jpg",The Hobbit: The Battle Of The Five Armies 2014
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63424d41d940521074b73d3e_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IQORYQsAW9hrMYjj9B3LBQ","kid":"ksV2OQkh/dOWju92dThXOQ"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037974X0-portrait.jpg",Top Gun: Maverick 2022
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6380a3b1d940521074bd1ddc_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"54BDXU0fDw3dm8PpVZqc4A","kid":"7/aumWa3CAX413veBsbRxQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/009275X0-portrait.jpg",Transformers 2007
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636bf979d940521074bb2b50_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6GLzD2/zbUvK/WanGUVmLg","kid":"SFcsmLZmVtCEBXW2mMSbNA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/010422X0-portrait.jpg",Transformers: Revenge Of The Fallen 2009
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7f8fb33ae366782ad9a3b8_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MJ7gGzSDJIVFXB8ZYbKvxA","kid":"lTubvZMBUmCLU+d2uwvfyg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/013685X0-portrait.jpg",Transformers: Dark Of The Moon 2011
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7fa0c63ae366782ad9a573_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JT0qPQe0X2AqMEDFBgc+5g","kid":"qC5BraoFN1gWsSbSKjo/nw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018147X0-portrait.jpg",Transformers: Age Of Extinction 2014
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636bb0d4d940521074bb23e3_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YXGzb+gzh82OyGlVH3qFQg","kid":"NA2Q2+qOUxqYXkflgFLgSw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023363X0-portrait.jpg",Shazam! 2019
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5dd3adaecbea8a6a4ef6040e_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"72st1VVQ8MaAF6zl2+1eWg","kid":"pg5Ju7lyXqCKOXwJaBiSoQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020532X0-portrait.jpg",Suicide Squad 2016
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/602f2a6b6d048943f7754b2b_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cpKeeHNcbfgm2Y6lEtvCpA","kid":"+mpmvNyoW7GA0PkF8yQ9LA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/033426X0-portrait.jpg",Suicide Squad 2021
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bf8190d940521074c309c2_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dpIYTcnxTYUr82AIVCjtFw","kid":"z9NfARUf8+MGM1EjeFr1kQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" type="Movie" group-title="VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020144X0-portrait.jpg",Warcraft 2016
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bb7748d940521074c2a808_hbovodhd/dash0/MYS_DOLBY_index.mpd
