@@ -20,7 +20,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f9f139f6d048943f76
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QfbWkr4gRwm3ZhqP7EZ2BQ","kid":"fv2RICtbUhqYeYyzoP0ipw"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="" group-title="Movie" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/009233X0-portrait.jpg",The Dark Knight 2008
+#EXTINF:-1 tvg-id="" group-title="Movie" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/009233X0-portrait.jpg",Batman: The Dark Knight 2008
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7786dd3ae366782ad8dcee_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -54,6 +54,20 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63a0187dd940521074c
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kSv89eHQ1oS74h+4YC35Qg", "kid":"nBRyYcF3lZ7W3rr3Brb6ng" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="Movie" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041489X0-portrait.jpg",Blue Beetle 2023
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/654c47b5d940521074e844b6_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qmgz0yQBdgB3Nvmwb8mn3g", "kid":"du6/zJ7KjY+IBoyb5B649w" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="Movie" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039467X0-portrait.jpg",Fall 2022
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455c7a6d940521074d12607_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GjbBcsEBErFLJ9TJh3xwRA","kid":"FFurrfX8UIqZ+A+3MYa9Jw"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="" group-title="Movie" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/031726X0-portrait.jpg",Godzilla Vs. Kong 2021
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63e48965d940521074c68224_hbovodhd/dash0/MYS_DOLBY_index.mpd
@@ -64,6 +78,13 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63e48965d940521074c
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"egI4etFZ5ZMLyuE75ptUOg","kid":"QXW8DKECVLiSRWP8Rtx02g"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="" group-title="Movie" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021159X0-portrait.jpg",Jumper 2008
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5dee734acbea8a6a4ef88fad_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8XwNnc4UGJ8U68MNQivB+A", "kid":"GwHvxUGDesICJdRcAQF0eA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="Movie" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039449X0-portrait.jpg",Jurassic World Dominion 2022
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64096451d940521074c9ff92_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -176,6 +197,13 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63424539d940521074b
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"anAkUZ65vcYv+7idtp4Pzw","kid":"dh4aXno13+z+LuGlj5RxbA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="" group-title="Movie" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020856X0-portrait.jpg",The Hobbit: The Battle Of The Five Armies 2014
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63424d41d940521074b73d3e_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TVTcSpKWXwZx1I+J4W48fw", "kid":"hjF5hmWkmzQ49veCFykzjQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="Movie" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037590X0-portrait.jpg",The Northman 2022
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/637606dad940521074bc1db7_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
