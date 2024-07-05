@@ -415,13 +415,12 @@ http://opplex.tv:8080//live/83212539/43153928/66271.m3u8
 #EXTINF:-1 tvg-id="My Cinema" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Mcn.png" group-title="FHD",My Cinema
 https://cdn08jtedge.indihometv.com/dassdvr/133/mycinema/manifest.mpd
 
-#####KODIPROP:inputstreamaddon=inputstream.adaptive 
-#####KODIPROP:inputstream.adaptive.manifest_type=dash 
-#####KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#####KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"10IhiVjhDKmJvmpj8tubbQ", "kid":"ZHVuaWFsYWluMDAwMDAwMA" } ], "type":"temporary" }
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="My Cinema Asia" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Mca.png" group-logo="" group-title="FHD",My Cinema Asia
-http://210.210.155.35/session/5f42685a-74e8-11ec-8b65-b82a72d63267/uq2663/h/h193/index.m3u8 
-#####https://cdn08jtedge.indihometv.com/dassdvr/133/mycinemaasia/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/mycinemaasia/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
