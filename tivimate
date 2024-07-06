@@ -661,5 +661,5 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default_primary.mpd
 #EXTINF:-1 tvg-id="805.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSportUHD.png" group-logo="" group-title="4K",Astro UHD 4K
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg" group-title="VOD",SHERIFF 2024 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg" group-title="MOVIES",SHERIFF 2024 
 https://onedrive-vercel-index-rouge.vercel.app/api/raw/?path=/Sheriff.2024.1080p.mkv
