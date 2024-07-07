@@ -2,6 +2,9 @@
 
 
 
+###################################################################################################### HBOGO Asia ###########################################################################################################
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -302,6 +305,8 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6062e95a6d048943f77
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ldz87Ksi8AqsDCEPgE7CfQ", "kid":"1l8/iOlzX2auDOjqGODmCg" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/030581X0-portrait.jpg",Wonder Woman 1984 2020
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bf8370d940521074c309f2_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+############################################################################################################### Astro Shaw ##################################################################################################
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
