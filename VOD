@@ -315,5 +315,13 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bf8370d940521074c
 #EXTINF:-1 tvg-id="" group-title="Astro Shaw" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNJUS_P_IVP_PORT_476x716_2024618_163049.jpg",Sheriff: Narko Integriti 2024 
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a6b7a042-0c3b-5264-9c13-01296926b67a/default_primary.mpd
 
-#EXTINF:-1, tvg-id="" group-title="Astro Shaw" tvg-logo="https://image.tmdb.org/t/p/original/v4uvGFAkKuYfyKLGZnYj6l47ERQ.jpg" tvg-url="" group-title="",Godzilla x Kong: The New Empire 2024                               
+#############################################################################################################################################################################################################################
+
+#EXTINF:-1, tvg-id="" group-title="English" tvg-logo="https://image.tmdb.org/t/p/original/v4uvGFAkKuYfyKLGZnYj6l47ERQ.jpg" tvg-url="" group-title="",Godzilla x Kong: The New Empire 2024                               
 http://103.145.232.246/Data/movies/Hollywood/2024/Godzilla%20x%20Kong%20The%20New%20Empire%20%282024%29/Godzilla%20x%20Kong%20The%20New%20Empire.mp4
+
+#EXTINF:-1, tvg-id="" group-title="English" tvg-logo="https://www.themoviedb.org/t/p/original/xvWasZH6cTgA5mr7V56R7OxEu6J.jpg" tvg-country="" tvg-url="" group-title="",Thor: Love and Thunder 2022       
+http://khulnaplex.net/Data/ALLMovies/hollywood/2022/Thor%20Love%20And%20Thunder%20%282022%29/Thor.Love.And.Thunder.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+
+#EXTINF:-1, tvg-id="" group-title="English" tvg-logo="https://www.themoviedb.org/t/p/original/61PVJ06oecwvcBisoAQu6SDfdcS.jpg" tvg-country="" tvg-url="" group-title="",Doctor Strange in the Multiverse of Madness   
+http://59.153.203.202/Data/All_Movies/hollywood/2022/Doctor%20Strange%20In%20The%20Multiverse%20Of%20Madness%20%282022%29/Doctor.Strange.In.The.Multiverse.Of.Madness.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
