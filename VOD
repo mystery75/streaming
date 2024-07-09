@@ -306,6 +306,20 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6062e95a6d048943f77
 #EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/030581X0-portrait.jpg",Wonder Woman 1984 2020
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bf8370d940521074c309f2_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"mHyzZBIbiqyI1tM1RMlSaw", "kid":"kiHI5nx1bwlPRUICQthWDg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040899X0-portrait.jpg",Evil Dead Rise 2023
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/648828a5d940521074d5dcf8_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"f4J6IC1rR20txFGDY4HPCw", "kid":"r3trQz0AY6BvYcUlseaakg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039083X0-portrait.jpg",The Offering 2023
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/648828a5d940521074d5dcf8_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
 ############################################################################################################### Astro Shaw ##################################################################################################
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -338,12 +352,15 @@ http://103.145.232.246/Data/movies/Hollywood/2021/Eternals%20(2021)/Eternals.202
 #EXTINF:-1, tvg-id="" group-title="English" tvg-logo="http://103.145.232.246//Admin/main/images/tt0433035/poster/original//4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg" tvg-country="" tvg-url="" group-title="",Real Steel 2011
 http://103.145.232.246/Data/movies/Hollywood/random/Real%20Steel%20(2011)/Real%20Steel.mp4
 
-#EXTINF:-1 group-title="Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzc4NjAxYzEtNTFmYS00NGUzLTg3MjYtMGU2Yzg5MGY5ZWI3XkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_FMjpg_UX1000_.jpg",Bikers Kental 2013 
+#EXTINF:-1 tvg-id="" group-title="Malay" tvg-logo="https://i.imgur.com/LD1shgE.jpg",Langgar Pantang 2024 
+https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Langgar.Pantang.2024.1080p.AAC.x264-KSO.mp4
+
+#EXTINF:-1 tvg-id="" group-title="Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzc4NjAxYzEtNTFmYS00NGUzLTg3MjYtMGU2Yzg5MGY5ZWI3XkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_FMjpg_UX1000_.jpg",Bikers Kental 2013 
 https://ia801801.us.archive.org/4/items/bikers-kental-2013/Bikers%20Kental%20%282013%29.mp4
 
-#EXTINF:-1 group-title="Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGY4ZjM1YjYtMjM4OC00NDYzLWI4NjktYzQzMGIzNzNlZjgwXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_FMjpg_UX1000_.jpg",Bikers Kental 2 2019 
+#EXTINF:-1 tvg-id="" group-title="Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGY4ZjM1YjYtMjM4OC00NDYzLWI4NjktYzQzMGIzNzNlZjgwXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_FMjpg_UX1000_.jpg",Bikers Kental 2 2019 
 https://ia601803.us.archive.org/24/items/bikers.-kental.-2.2019.-web-dl.-1080p/Bikers.Kental.2.2019.WEB-DL.1080p.mp4
 
-#EXTINF:-1 group-title="Korea" tvg-logo="http://103.145.232.246//Admin/main/images/tt1527788/poster//ld19CFIo27t41JXSGZdaPMUGTxh.jpg",The Man From Nowhere 2010
+#EXTINF:-1 tvg-id="" group-title="Korea" tvg-logo="http://103.145.232.246//Admin/main/images/tt1527788/poster//ld19CFIo27t41JXSGZdaPMUGTxh.jpg",The Man From Nowhere 2010
 http://103.145.232.246/Data/movies/korean/The%20Man%20From%20Nowhere%20(2010)/The.Man.From.Nowhere.2010.1080p.BRrip.x264.GAZ.YIFY.mp4
 
