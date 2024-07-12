@@ -331,12 +331,6 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a6b7a042-
 
 #############################################################################################################################################################################################################################
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=9851b0187d49303ed6b595a2f50f1ba3&key=b3f8c2cec4eed920be2206de95340df2
-#EXTINF:-1 tvg-id="" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-1000/https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2024/gf/dedaun_hijau_768x432px.png" group-logo="" group-title="Dedaun Hijau Di Angin Lalu",ep 1
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/3209/assetId/1587567/assetType/media/assetFileId/20048342/contextType/PLAYBACK/isAltUrl/False/ks/djJ8MzIwOXxgWPixYHd8AuV6KxZuersPdbGa0nja8PAcpG1r0xW_ms1gpog_HwlV1MFrbCtdufJ1ZYzGlorWnNpUSPhQ4f158hDWtvrEVBq3U3eymhj_G3sf_Rd5gPop0tTc_unuvux4cehoccSVvD2c7xc9JBRs9zYto7UAZjjnkFNlH0_jvdDJz_T1KqzzfUhwcmk6RyNo56C7VkoW3akkApjFYeK0pCr8zXLqfNmXATyDJXfVHyyfv-JG8Sko0UHzp3FShbYfP7UQofDtRQZL39koN8x5i5SDpjv8o0hFB_PPXlT8Ei_w6YRkABBsTeEMK8Luy6Tug4IDxuPq6YtHnqJyBsVOmpgrziSVc9ohnQU2DaRQV1aUHFXPTb9zkYWz33XjdnbIZkGTo4a8Qo-VcUyyidZQFgMumEnKs9m4fosW-P6FqOUAnYef6-JWKh74UDJYYCC5kGExkQ21WRNjK4zzEGRGBHoDFVOksnVMJKRFnCLcB6eHBFpZR6JHG4erTlOc7P0=/a.mpd?playSessionId=9851b018-7d49-303e-d6b5-95a2f50f1ba3:b3f8c2ce-c4ee-d920-be22-06de95340df2&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5L2RlZGF1bi1oaWphdS1kaS1hbmdpbi1sYWx1LWVwMDEvMTU4NzU2Ny9wbGF5ZXI/c2VyaWVzSWQ9MTU4NjcwNQ==&clientTag=html5:v7.122
-
-##############################################################################################################################################################################################################################
 
 #EXTINF:-1, tvg-id="" group-title="English" tvg-logo="https://image.tmdb.org/t/p/original/v4uvGFAkKuYfyKLGZnYj6l47ERQ.jpg" tvg-url="" group-title="",Godzilla x Kong: The New Empire 2024                               
 http://103.145.232.246/Data/movies/Hollywood/2024/Godzilla%20x%20Kong%20The%20New%20Empire%20%282024%29/Godzilla%20x%20Kong%20The%20New%20Empire.mp4
