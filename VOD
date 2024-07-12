@@ -331,6 +331,13 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a6b7a042-
 
 #############################################################################################################################################################################################################################
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=9851b0187d49303ed6b595a2f50f1ba3&key=b3f8c2cec4eed920be2206de95340df2
+#EXTINF:-1 tvg-id="" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-1000/https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2024/gf/dedaun_hijau_768x432px.png" group-logo="" group-title="Dedaun Hijau Di Angin Lalu",ep 1
+https://vod-playback.sooka.my/edash/p/3089633/sp/308963300/serveFlavor/entryId/1_fossxuom/v/1/ev/9/flavorId/1_,bje2t0jg,n5gowidj,y4i4vdky,pzuvzruy,jg1twfty,3dhe9r4i,k6do6fs2,ethvtiuh,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
+##############################################################################################################################################################################################################################
+
 #EXTINF:-1, tvg-id="" group-title="English" tvg-logo="https://image.tmdb.org/t/p/original/v4uvGFAkKuYfyKLGZnYj6l47ERQ.jpg" tvg-url="" group-title="",Godzilla x Kong: The New Empire 2024                               
 http://103.145.232.246/Data/movies/Hollywood/2024/Godzilla%20x%20Kong%20The%20New%20Empire%20%282024%29/Godzilla%20x%20Kong%20The%20New%20Empire.mp4
 
