@@ -663,28 +663,3 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default_primary.mpd
 #EXTINF:-1 tvg-id="805.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSportUHD.png" group-logo="" group-title="4K",Astro UHD 4K
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5UQm1ZV1kyTVRndFpHWm1OaTAwTlRnMExXSmpOR010WlRsaE9EaGlZbUl5WWpBMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMDkwMTg3MywiaWF0IjoxNzAwMjk3ODczfQ.47O5mRVNfAt2fpJiK0VdSCwWSlDmDWAOiq-jnjw6168"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/sooka/arenabola/
-#EXTINF:-1 tvg-id="803.astro" ch-number="803" group-title="test" group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png",803 Astro Arena Bola
-https://live.aqfadtv.xyz/sooka/arenabola/index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5UQm1ZV1kyTVRndFpHWm1OaTAwTlRnMExXSmpOR010WlRsaE9EaGlZbUl5WWpBMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMDkwMTg3MywiaWF0IjoxNzAwMjk3ODczfQ.47O5mRVNfAt2fpJiK0VdSCwWSlDmDWAOiq-jnjw6168"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/sooka/arenabola2/
-#EXTINF:-1 tvg-id="804.astro" ch-number="804" group-title="test" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_v1.png",804 Astro Arena Bola 2
-https://live.aqfadtv.xyz/sooka/arenabola2/index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yUmhNREU0WVdFdE5EQmxPQzAwWkdSaUxUazRNbVF0TURJNE5HVmhPVEppTnpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTY1NTg0NywiaWF0IjoxNzAxMDUxODQ3fQ.hRVwhWSZkyg7s4xaTC26UatW19j08JEABnie7W1sMeI"} 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9yP9JobZzo92qD+sNN/55A", "kid":"N/uZymGpTIif3HWLsqZ0lQ" } ], "type":"temporary" } 
-#EXTINF:-1 tvg-id="" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)" ch-number="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",ASTRO RIA sooka 
-https://linear07-playback.sooka.my/CH4/masterCH4.mpd
