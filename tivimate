@@ -490,7 +490,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227925/3221227925.mpd?rrsip=web.hy
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uuHkfbVitmiVvrj8zfKtig", "kid":"8sMT/OVTROWlI4l0HR9T+A" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="Aniplus" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-logo="" group-title="FHD",AniPlus 
-https://cdn14jtedge.indihometv.com/dass/107/aniplus/manifest_wuseetv.mpd?encp=KGR65lEogRJ8knX1A5YIVA&uid=&expp=1721019649
+https://cdn10jtedge.indihometv.com/dass/107/aniplus/manifest_wuseetv.mpd?encp=2m-nbnLNcuCCVwUi4U09Tw&uid=&expp=1721112329
 #####https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
