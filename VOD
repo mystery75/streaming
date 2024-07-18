@@ -115,7 +115,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e785fc73a736626cec
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fw5gVJOwM9I8HYiG3Xiufw", "kid":"SO0s1Hd2dheuUCSpy0QWkw" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020305X0-portrait.jpg",Jason Bourne 2016
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636bcb5fd940521074bb26a4_hbovodhd/dash0/MYS_DOLBY_index.mp
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636bcb5fd940521074bb26a4_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -375,6 +375,13 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61f3c993d9405210749
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VBn1JkeyqEA7F1h/H76ZSg", "kid":"VWanQjEnUrKrYFd3o7snvA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023711X0-portrait.jpg",Joker 2019
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f1e65956d048943f75c09e2_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kfEKwVuRoef9XiJpD0BQhg", "kid":"U08nIum5WcO1RinbbU/b2Q" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023471X0-portrait.jpg",Annabelle Comes Home 2019
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ea3b3776d048943f7505cb4_hbovodhd/dash0/MYS_index.mpd
 
 ############################################################################################################### Astro Shaw ##################################################################################################
 
