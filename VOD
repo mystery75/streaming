@@ -392,39 +392,3 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ea3b3776d048943f75
 #EXTINF:-1 tvg-id="" group-title="Astro Shaw" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNJUS_P_IVP_PORT_476x716_2024618_163049.jpg",Sheriff: Narko Integriti 2024 
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a6b7a042-0c3b-5264-9c13-01296926b67a/default_primary.mpd
 
-#############################################################################################################################################################################################################################
-
-
-#EXTINF:-1, tvg-id="" group-title="English" tvg-logo="https://image.tmdb.org/t/p/original/v4uvGFAkKuYfyKLGZnYj6l47ERQ.jpg" tvg-url="" group-title="",Godzilla x Kong: The New Empire 2024                               
-http://103.145.232.246/Data/movies/Hollywood/2024/Godzilla%20x%20Kong%20The%20New%20Empire%20%282024%29/Godzilla%20x%20Kong%20The%20New%20Empire.mp4
-
-#EXTINF:-1, tvg-id="" group-title="English" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/uZSF2KIAfYmt7UeXV65reqTjf5r.jpg" tvg-url="" group-title="",The Marvels 2023                      
-http://103.145.232.246/Data/movies/Hollywood/2023/The%20Marvels%20%282023%29/The%20Marvels.mp4
-
-#EXTINF:-1, tvg-id="" group-title="English" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg" tvg-country="" tvg-url="" group-title="",Iron Man 3 2013
-http://103.145.232.246/Data/movies/Hollywood/best/Iron%20Man%203%20(2013)/Iron.Man.3.2013.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1, tvg-id="" group-title="English" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg" tvg-country="" group-title="",Shang-Chi and the Legend of the Ten Rings 2021   
-http://103.145.232.246/Data/movies/Hollywood/2021/Shang-Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings%20(2021)/Shang-Chi.And.The.Legend.Of.The.Ten.Rings.2021.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4
-
-#EXTINF:-1, tvg-id="" group-title="English" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg" tvg-country="" tvg-url="" group-title="",Venom: Let There Be Carnage 2021  
-http://103.145.232.246/Data/movies/Hollywood/2021/Venom%20Let%20There%20Be%20Carnage%20(2021)/Venom.Let.There.Be.Carnage.2021.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
-
-#EXTINF:-1, tvg-id="" group-title="English" tvg-logo="https://www.themoviedb.org/t/p/original/rczKeqkyouROld1LQX9OR3db75z.jpg" tvg-country="" tvg-url="" group-title="",Eternals 2021  
-http://103.145.232.246/Data/movies/Hollywood/2021/Eternals%20(2021)/Eternals.2021.mp4
-
-#EXTINF:-1, tvg-id="" group-title="English" tvg-logo="http://103.145.232.246//Admin/main/images/tt0433035/poster/original//4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg" tvg-country="" tvg-url="" group-title="",Real Steel 2011
-http://103.145.232.246/Data/movies/Hollywood/random/Real%20Steel%20(2011)/Real%20Steel.mp4
-
-#EXTINF:-1 tvg-id="" group-title="Malay" tvg-logo="https://i.imgur.com/LD1shgE.jpg",Langgar Pantang 2024 
-https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Langgar.Pantang.2024.1080p.AAC.x264-KSO.mp4
-
-#EXTINF:-1 tvg-id="" group-title="Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzc4NjAxYzEtNTFmYS00NGUzLTg3MjYtMGU2Yzg5MGY5ZWI3XkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_FMjpg_UX1000_.jpg",Bikers Kental 2013 
-https://ia801801.us.archive.org/4/items/bikers-kental-2013/Bikers%20Kental%20%282013%29.mp4
-
-#EXTINF:-1 tvg-id="" group-title="Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGY4ZjM1YjYtMjM4OC00NDYzLWI4NjktYzQzMGIzNzNlZjgwXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_FMjpg_UX1000_.jpg",Bikers Kental 2 2019 
-https://ia601803.us.archive.org/24/items/bikers.-kental.-2.2019.-web-dl.-1080p/Bikers.Kental.2.2019.WEB-DL.1080p.mp4
-
-#EXTINF:-1 tvg-id="" group-title="Korea" tvg-logo="http://103.145.232.246//Admin/main/images/tt1527788/poster//ld19CFIo27t41JXSGZdaPMUGTxh.jpg",The Man From Nowhere 2010
-http://103.145.232.246/Data/movies/korean/The%20Man%20From%20Nowhere%20(2010)/The.Man.From.Nowhere.2010.1080p.BRrip.x264.GAZ.YIFY.mp4
-
