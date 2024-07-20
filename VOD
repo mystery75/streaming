@@ -8,9 +8,37 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kfEKwVuRoef9XiJpD0BQhg", "kid":"U08nIum5WcO1RinbbU/b2Q" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023471X0-portrait.jpg",Annabelle Comes Home 2019
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ea3b3776d048943f7505cb4_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pIRju2ABeKm/+zZ/gwDGZg","kid":"Fo+R69SEV5aRRsmYFUxn9Q"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023075X0-portrait.jpg",Aquaman 2018
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5da9c19bcbea8a6a4ef2035c_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"C+Yw+g4oAZjAmnrfDUHulg", "kid":"x7F5akOcXfaLge8/6k9rrw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/009175X0-portrait.jpg",Batman 1989
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60fe7965e59f821aa9e6ee5c_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ysIc4cD57CMmSme4u+FvMw", "kid":"ylphBMYvUxucDjOIZZujOw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/009606X0-portrait.jpg",Batman Returns 1992
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60fbc8a3e59f821aa9e6ae4b_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0X2iQc3uHt8s8UUxPkPk8Q", "kid":"uaC9tGnXUzCsDViGLJE4oA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/009176X0-portrait.jpg",Batman Forever 1995
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60fe83fee59f821aa9e6ef63_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -64,6 +92,20 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/654c47b5d940521074e
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6ZQIeLQaO+CUB7+GER/DwQ", "kid":"ySVsIxm+4RVesasF3bKEjA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040878X0-portrait.jpg",Dungeons & Dragons: Honor Among Thieves 2023
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbd7dcd940521074dc3623_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"mHyzZBIbiqyI1tM1RMlSaw", "kid":"kiHI5nx1bwlPRUICQthWDg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040899X0-portrait.jpg",Evil Dead Rise 2023
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/648828a5d940521074d5dcf8_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qmgz0yQBdgB3Nvmwb8mn3g", "kid":"du6/zJ7KjY+IBoyb5B649w" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039467X0-portrait.jpg",Fall 2022
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455c7a6d940521074d12607_hbovodhd/dash0/MYS_DOLBY_index.mpd
@@ -99,6 +141,13 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5dee734acbea8a6a4ef
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6bJRLE9bD6iFEcd54YmVQA", "kid":"Zc/ioTX/V8a05jCJOPJ+kQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018019X0-portrait.jpg",Jurassic Park 1993
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7fd9273ae366782ad9ab33_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8XwNnc4UGJ8U68MNQivB+A", "kid":"GwHvxUGDesICJdRcAQF0eA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039449X0-portrait.jpg",Jurassic World Dominion 2022
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64096451d940521074c9ff92_hbovodhd/dash0/MYS_DOLBY_index.mpd
@@ -116,6 +165,13 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e785fc73a736626cec
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fw5gVJOwM9I8HYiG3Xiufw", "kid":"SO0s1Hd2dheuUCSpy0QWkw" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020305X0-portrait.jpg",Jason Bourne 2016
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636bcb5fd940521074bb26a4_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VBn1JkeyqEA7F1h/H76ZSg", "kid":"VWanQjEnUrKrYFd3o7snvA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023711X0-portrait.jpg",Joker 2019
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f1e65956d048943f75c09e2_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -151,6 +207,13 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e57e0cbea8a6a4ee
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NC5VdJ6e9bV8k3H8TACBMg", "kid":"pyRO16VnjVITBnLEs89RTg" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041162X0-portrait.jpg",Meg 2: The Trench 2023
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fee5add940521074e10087_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Er5BNxM1MxJtzk4uSpfVOQ", "kid":"U6SRL4MLPBYRFk0wx7GiLQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038455X0-portrait.jpg",Moonfall 2022
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636b3f92d940521074bb181c_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -218,9 +281,37 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63424d41d940521074b
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4zHFdur7iMvtOURFXNhb1w", "kid":"PZsLpc7iRReEhvr1rd69bA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036304X0-portrait.jpg",The Matrix Resurrections 2021
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61f3c993d94052107497cbfc_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TVTcSpKWXwZx1I+J4W48fw", "kid":"hjF5hmWkmzQ49veCFykzjQ" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037590X0-portrait.jpg",The Northman 2022
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/637606dad940521074bc1db7_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Oytq9FA35fZ7erP0g7YEvA", "kid":"EolxIoTHXGS+f26b2BT4HA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022869X0-portrait.jpg",The Nun 2018
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8f208fcbea8a6a4eef7b27_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EoQ3gaI4KFyBHcxaNxXjRA", "kid":"5AY+g4glbuq9L079rnrt0w" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041243X0-portrait.jpg",The Nun Ii 2023
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6537627dd940521074e64adf_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"f4J6IC1rR20txFGDY4HPCw", "kid":"r3trQz0AY6BvYcUlseaakg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039083X0-portrait.jpg",The Offering 2023
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63f30896d940521074c7e1e3_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -319,69 +410,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6062e95a6d048943f77
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ldz87Ksi8AqsDCEPgE7CfQ", "kid":"1l8/iOlzX2auDOjqGODmCg" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/030581X0-portrait.jpg",Wonder Woman 1984 2020
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bf8370d940521074c309f2_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"mHyzZBIbiqyI1tM1RMlSaw", "kid":"kiHI5nx1bwlPRUICQthWDg" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040899X0-portrait.jpg",Evil Dead Rise 2023
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/648828a5d940521074d5dcf8_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"f4J6IC1rR20txFGDY4HPCw", "kid":"r3trQz0AY6BvYcUlseaakg" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039083X0-portrait.jpg",The Offering 2023
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63f30896d940521074c7e1e3_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Oytq9FA35fZ7erP0g7YEvA", "kid":"EolxIoTHXGS+f26b2BT4HA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022869X0-portrait.jpg",The Nun 2018
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8f208fcbea8a6a4eef7b27_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EoQ3gaI4KFyBHcxaNxXjRA", "kid":"5AY+g4glbuq9L079rnrt0w" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041243X0-portrait.jpg",The Nun Ii 2023
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6537627dd940521074e64adf_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6ZQIeLQaO+CUB7+GER/DwQ", "kid":"ySVsIxm+4RVesasF3bKEjA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040878X0-portrait.jpg",Dungeons & Dragons: Honor Among Thieves 2023
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbd7dcd940521074dc3623_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Er5BNxM1MxJtzk4uSpfVOQ", "kid":"U6SRL4MLPBYRFk0wx7GiLQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038455X0-portrait.jpg",Moonfall 2022
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636b3f92d940521074bb181c_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4zHFdur7iMvtOURFXNhb1w", "kid":"PZsLpc7iRReEhvr1rd69bA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036304X0-portrait.jpg",The Matrix Resurrections 2021
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61f3c993d94052107497cbfc_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VBn1JkeyqEA7F1h/H76ZSg", "kid":"VWanQjEnUrKrYFd3o7snvA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023711X0-portrait.jpg",Joker 2019
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f1e65956d048943f75c09e2_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kfEKwVuRoef9XiJpD0BQhg", "kid":"U08nIum5WcO1RinbbU/b2Q" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023471X0-portrait.jpg",Annabelle Comes Home 2019
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ea3b3776d048943f7505cb4_hbovodhd/dash0/MYS_index.mpd
 
 ############################################################################################################### Astro Shaw ##################################################################################################
 
