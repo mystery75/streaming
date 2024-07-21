@@ -22,6 +22,13 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5da9c19bcbea8a6a4ef
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wfASatvCunB1rGsUOmjNxg", "kid":"K/UnBJ8aM/b6NDWPucK5ew" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041831X0-portrait.jpg",Aquaman And The Lost Kingdom 2023
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65d41058d940521074f4f78c_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"C+Yw+g4oAZjAmnrfDUHulg", "kid":"x7F5akOcXfaLge8/6k9rrw" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/009175X0-portrait.jpg",Batman 1989
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60fe7965e59f821aa9e6ee5c_hbovodhd/dash0/MYS_DOLBY_index.mpd
@@ -130,6 +137,13 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e8ccaaa3a736626cec
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GjbBcsEBErFLJ9TJh3xwRA","kid":"FFurrfX8UIqZ+A+3MYa9Jw"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/031726X0-portrait.jpg",Godzilla Vs. Kong 2021
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63e48965d940521074c68224_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ubxkPl8qn/XgkhJWcmzqOg", "kid":"EOOHCOtx2ahwRHsBMiWSgA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/042191X0-portrait.jpg",Godzilla X Kong: The New Empire 2024
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/667cf90ad94052107404ae58_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
