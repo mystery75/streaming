@@ -8,6 +8,13 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"o/KxnDxumhFgbb1aqAavrg", "kid":"mOLGZX+lUn6kJgNn+p7Ttg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021340X0-portrait.jpg",Annabelle Creation 2017
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e2a72cbea8a6a4eef62fc_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kfEKwVuRoef9XiJpD0BQhg", "kid":"U08nIum5WcO1RinbbU/b2Q" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023471X0-portrait.jpg",Annabelle Comes Home 2019
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ea3b3776d048943f7505cb4_hbovodhd/dash0/MYS_DOLBY_index.mpd
@@ -71,6 +78,13 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f9ac2526d048943f76
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yaTdKdHjGh/NAaeFkMYdXQ","kid":"O6qQIZBvElRXyWiD2D4/bA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036967X0-portrait.jpg",Batman 2022
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/625530d2d940521074a0f2d4_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"znj/+HN9BnnHnRlOeQkRBQ","kid":"ANSeEXliWZGMNEBQ/gB6+Q"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/030447X0-portrait.jpg",Batman V Superman: Dawn Of Justice 2016
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6062d9c96d048943f77a0f62_hbovodhd/dash0/MYS_DOLBY_index.mpd
@@ -78,9 +92,9 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6062d9c96d048943f77
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yaTdKdHjGh/NAaeFkMYdXQ","kid":"O6qQIZBvElRXyWiD2D4/bA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036967X0-portrait.jpg",Batman 2022
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/625530d2d940521074a0f2d4_hbovodhd/dash0/MYS_DOLBY_index.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"p+xNnLG8o5SmjSSarMdclA", "kid":"ORSCBbgwfbQjRSC3yFkz2A" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039484X0-portrait.jpg",Beast 2022
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455c27fd940521074d12585_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -106,6 +120,13 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbd7dcd940521074d
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"94oixmmPGXMz19uiVmcVcw", "kid":"N7PUoXn3U1iWY3XgATc+lQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021345X0-portrait.jpg",Dunkirk 2017
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/617769e1fbbcc21f45cc0e05_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"mHyzZBIbiqyI1tM1RMlSaw", "kid":"kiHI5nx1bwlPRUICQthWDg" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040899X0-portrait.jpg",Evil Dead Rise 2023
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/648828a5d940521074d5dcf8_hbovodhd/dash0/MYS_DOLBY_index.mpd
@@ -116,6 +137,34 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/648828a5d940521074d
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qmgz0yQBdgB3Nvmwb8mn3g", "kid":"du6/zJ7KjY+IBoyb5B649w" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039467X0-portrait.jpg",Fall 2022
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455c7a6d940521074d12607_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"818rDUWSoftLcGimESi32g", "kid":"rhqRz1Guk9u6Q51kzADh/A" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020662X0-portrait.jpg",Fantastic Beasts And Where To Find Them 2016
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62283b92d9405210749cb84c_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XjRkC2CKOiYq1w58AhdMqg", "kid":"E+WneZPBWEqlN5KmCQ0TCA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023076X0-portrait.jpg",Fantastic Beasts: The Crimes Of Grindelwald 2018
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d9052e6cbea8a6a4eef995a_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"mP0H3MUeXlzgzmqpvE+rAg", "kid":"8o2ETfUcoC0xjX3bhH90yA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037116X0-portrait.jpg",Fantastic Beasts: The Secrets Of Dumbledore 2022
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62792a41d940521074a4530c_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OfCXQLOswTcarJVfbibTrQ", "kid":"1DjEAY5eJz+h2tgnyasn/A" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020666X0-portrait.jpg",Ghost In The Shell 2017
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6407e70ed940521074c9dab0_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -192,7 +241,28 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f1e65956d048943f75
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vHS7+0CRB5XlnMOHq/tFCA","kid":"1gmofy2CUD2T75/ywGWfag"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021415X0-portrait.jpg",Justice League 2017
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d849e73d9bf810a0bbcd4a0_hbovodhd/dash0/MYS_index.mpd
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d849e73d9bf810a0bbcd4a0_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IkOAUA2+hAA+HNzcX6euQg", "kid":"DwyDfZ1oX/y7aSkxkmLYYQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/030577X1-portrait.jpg",Zack Snyder’S Justice League: Justice Is Gray 2021
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6062e95a6d048943f77a10d1_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Dbm2onFQ1AhiJXQAJKf1A", "kid":"uN+x7febV/Se3+cqW0OZvw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021244X0-portrait.jpg",King Arthur: Legend Of The Sword 2017
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/66826065d940521074053437_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2VGeSLbp5LdBPSAVMX1yLQ", "kid":"rtXDFIDJXDu8+56nwhaqsQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021110X0-portrait.jpg",Kong: Skull Island 2017
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60b4e44e8caa5a5e0b11f7f4_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -410,13 +480,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bf8190d940521074c
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dpIYTcnxTYUr82AIVCjtFw","kid":"z9NfARUf8+MGM1EjeFr1kQ"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020144X0-portrait.jpg",Warcraft 2016
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bb7748d940521074c2a808_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IkOAUA2+hAA+HNzcX6euQg", "kid":"DwyDfZ1oX/y7aSkxkmLYYQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/030577X1-portrait.jpg",Zack Snyder’S Justice League: Justice Is Gray 2021
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6062e95a6d048943f77a10d1_hbovodhd/dash0/MYS_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
