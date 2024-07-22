@@ -48,7 +48,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_primary.m
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YjlmNGY4YWYtODNlYi0zNjY4LTlhNDgtYzIyMDFlMGQ1NjYw
 #EXTINF:-1 tvg-id="128.unifi" ch-number="128" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-logo="" group-title="FHD",Dunia Sinema 
-https://web.hypp.tv:443/PLTV/88888888/224/3221227631/3221227631.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=5P%2FZmSAoS0sKZqU8B1%2BiBQ4yQtjnn4TWNzyW6YccCDiEkcSGlqVINWL2dRNk6y4cHNM%2Bndiv8wGoMcpoonvwKfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20240710055522%3AUTC%2C1005926113%2C118.100.198.102%2C20240710055522%2Curn:Huawei:liveTV:XTV100001461%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1615850%2C0%2C521145%2C144796741%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQrCMBBE_ybH0I2piYecFEGQKli9yjbdxmLaaFIF_16r9Tozb3hDREublakq0PkiVxYyKZVAzLWSBNTMlZWKcpboXgQjmEXv294VoR6x02F5hoxnXAjgUrNyvFt7dNOyeHQVRQN_7EDx2VoydWr4ExNH5yI5HNrQ873H1zH6acKonNRAiWwOcgEzrYENY1piun4adsG0DN0NI9Xb4L6AadAnYje0V3RUYEemf3j_43ax_ti8AcGVQHv0AAAA&tenantId=6001
+https://unifi-live27.secureswiftcontent.com/UnifiHD/live27-1080FHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YjlmNGY4YWYtODNlYi0zNjY4LTlhNDgtYzIyMDFlMGQ1NjYw
