@@ -4,6 +4,19 @@
 
 ###################################################################################################### HBOGO Asia ###########################################################################################################
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MqlmrWO5P/a/r+Jb7EpqUg", "kid":"Y/Ef4IHOUD2E+OCd72eXOQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/017484X0-portrait.jpg",300 2007
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61b8038afbbcc21f45d24f31_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"cm1mhBTLsb/V8lv8SoCt+g", "kid":"67c5unSRVjms46/i+IP1Zg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/017814X0-portrait.jpg",300: Rise Of An Empire 2014
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ef1ead56d048943f757d045_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -142,7 +155,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455c7a6d940521074d
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"818rDUWSoftLcGimESi32g", "kid":"rhqRz1Guk9u6Q51kzADh/A" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020662X0-portrait.jpg",Fantastic Beasts And Where To Find Them 2016
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020662X0-portrait.jpg",Fantastic Beasts: And Where To Find Them 2016
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62283b92d9405210749cb84c_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -284,6 +297,20 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/602f3cfc6d048943f77
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"23hk+WeR8J2JP79MQJ9yAw", "kid":"lAtRhk9KXmaH/oJEKikljA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022781X0-portrait.jpg",Meg 2018
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e57e0cbea8a6a4eef676b_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0YvaNRcxmpY58u+TZdEz7Q", "kid":"liuBSLqHVXye4cO36OoPtw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/017260X0-portrait.jpg",The Conjuring 2013
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f3e46566d048943f75f12d8_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"h8QrTwIwpgVMOYH6/aCzPw", "kid":"MjrJCJYQUGWOq647oe2TkA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020534X0-portrait.jpg",The Conjuring 2 2016
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f4f8ab06d048943f760b03a_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -489,6 +516,13 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bb7748d940521074c
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bf8370d940521074c309f2_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 ############################################################################################################### Astro Shaw ##################################################################################################
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GrLxQPnIy838zQBQ0o0msA", "kid":"psNQh7ICUidsaesw6SGZPw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="Astro Shaw" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034827X0-portrait.jpg",Sayang Disayang 2013
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64b5fa04d940521074da263c_hbovodhd/dash0/MYS_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
