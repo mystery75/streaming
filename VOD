@@ -261,7 +261,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d849e73d9bf810a0bb
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IkOAUA2+hAA+HNzcX6euQg", "kid":"DwyDfZ1oX/y7aSkxkmLYYQ" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/030577X1-portrait.jpg",Zack Snyder’S Justice League: Justice Is Gray 2021
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6062e95a6d048943f77a10d1_hbovodhd/dash0/MYS_DOLBY_index.mpd
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6062e95a6d048943f77a10d1_hbovodhd/dash0/MYS_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -294,13 +294,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/602f3cfc6d048943f77
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"23hk+WeR8J2JP79MQJ9yAw", "kid":"lAtRhk9KXmaH/oJEKikljA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022781X0-portrait.jpg",Meg 2018
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e57e0cbea8a6a4eef676b_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0YvaNRcxmpY58u+TZdEz7Q", "kid":"liuBSLqHVXye4cO36OoPtw" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/017260X0-portrait.jpg",The Conjuring 2013
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f3e46566d048943f75f12d8_hbovodhd/dash0/MYS_DOLBY_index.mpd
@@ -315,8 +308,15 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f4f8ab06d048943f76
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"23hk+WeR8J2JP79MQJ9yAw", "kid":"lAtRhk9KXmaH/oJEKikljA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022781X0-portrait.jpg",The Meg 2018
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e57e0cbea8a6a4eef676b_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NC5VdJ6e9bV8k3H8TACBMg", "kid":"pyRO16VnjVITBnLEs89RTg" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041162X0-portrait.jpg",Meg 2: The Trench 2023
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041162X0-portrait.jpg",The Meg 2: The Trench 2023
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fee5add940521074e10087_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -388,6 +388,27 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63424539d940521074b
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"anAkUZ65vcYv+7idtp4Pzw","kid":"dh4aXno13+z+LuGlj5RxbA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020856X0-portrait.jpg",The Hobbit: The Battle Of The Five Armies 2014
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63424d41d940521074b73d3e_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DPAqpvirk7c14TY7AEC26w", "kid":"/IGzqpirXt2EGQrbc4uNNA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014377X0-portrait.jpg",The Matrix 1999
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ca4964dba74fe65548e8bc9_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1MDX9nYGmPE/5PazVK4Q0Q", "kid":"EtZev3FsV3SScvtDOiNpOw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014378X0-portrait.jpg",The Matrix Revolutions 2003
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61cd2b6afbbcc21f45d44db2_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5qcLYP2r+rAwqeMZCPfwvQ", "kid":"anAFSGjaSSe/B9Up9zn6jw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036312X0-portrait.jpg",The Matrix Reloaded 2003
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6204d064d9405210749965c2_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
