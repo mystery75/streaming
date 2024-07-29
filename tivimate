@@ -42,6 +42,61 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5153/default.mpd
 #EXTINF:-1 tvg-id="784.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-logo="" group-title="FHD",Astro OLY 5
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5154/default_primary.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5155
+#EXTINF:-1 tvg-id="785.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-logo="" group-title="FHD",Astro OLY 6
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5155/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5156
+#EXTINF:-1 tvg-id="786.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-logo="" group-title="FHD",Astro OLY 7
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5156/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5157
+#EXTINF:-1 tvg-id="787.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-logo="" group-title="FHD",Astro OLY 8
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5157/default_primary.mpd
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5158
+#EXTINF:-1 tvg-id="788.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-logo="" group-title="FHD",Astro OLY 9
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5158/default_primary.mpd
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5159
+#EXTINF:-1 tvg-id="789.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-logo="" group-title="FHD",Astro OLY 10
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5159/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5160
+#EXTINF:-1 tvg-id="790.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-logo="" group-title="FHD",Astro OLY 11
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5160/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5161
+#EXTINF:-1 tvg-id="791.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-logo="" group-title="FHD",Astro OLY 12
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5161/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5162
+#EXTINF:-1 tvg-id="792.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-logo="" group-title="FHD",Astro OLY 13
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5162/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5163
+#EXTINF:-1 tvg-id="793.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-logo="" group-title="FHD",Astro OLY 14
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5163/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5164
+#EXTINF:-1 tvg-id="794.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-logo="" group-title="FHD",Astro OLY 15
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5164/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5165
+#EXTINF:-1 tvg-id="795.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-logo="" group-title="FHD",Astro OLY 16
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5165/default_primary.mpd
+
 
 
 
