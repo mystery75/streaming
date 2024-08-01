@@ -538,12 +538,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bf8370d940521074c
 
 ############################################################################################################### Astro Shaw ##################################################################################################
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GrLxQPnIy838zQBQ0o0msA", "kid":"psNQh7ICUidsaesw6SGZPw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="Astro Shaw" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034827X0-portrait.jpg",Sayang Disayang 2013
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64b5fa04d940521074da263c_hbovodhd/dash0/MYS_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
