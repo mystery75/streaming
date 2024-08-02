@@ -748,14 +748,5 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default_primary.mpd
 #EXTINF:-1 tvg-id="805.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSportUHD.png" group-logo="" group-title="4K",Astro UHD 4K
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 
-#EXTINF:-1 tvg-id=" " group-title="SK" group-logo=" " tvg-logo=" ",SK JOJ Cinema
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ESIzRFVmd4iZABEiM0RVZg", "kid":"ESIzRFVmd4iZABEiM0RVZg" } ], "type":"temporary" }
-https://dash2.antik.sk/stream/nvidia_joj_cinema/playlist_cbcs.mpd
-
-#EXTINF:-1 tvg-id=" " group-title="SK" group-logo=" " tvg-logo=" ",SK JOJ Cinema+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ESIzRFVmd4iZABEiM0RVZg", "kid":"ESIzRFVmd4iZABEiM0RVZg" } ], "type":"temporary" }
-https://dash2.antik.sk/stream/hisi_joj_cine_plus_jedna/playlist_cbcs.mpd
 
 
