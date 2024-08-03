@@ -126,6 +126,20 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/654c47b5d940521074e
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QchnhQVneodIvvw64ozBVw","kid":"NKWcSdM5WeStICWWhNtkFA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/033529X0-portrait.jpg",Dune: Part One 2021
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6406b2dfd940521074c9be09_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"peytjFprieQpzayv+6jvXg", "kid":"QSBd2zrLbiJ5wy8VH9HVdQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/042083X0-portrait.jpg",Dune: Part Two 2024
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6642f030d940521074ff4e87_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6ZQIeLQaO+CUB7+GER/DwQ", "kid":"ySVsIxm+4RVesasF3bKEjA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040878X0-portrait.jpg",Dungeons & Dragons: Honor Among Thieves 2023
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbd7dcd940521074dc3623_hbovodhd/dash0/MYS_DOLBY_index.mpd
@@ -403,6 +417,13 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61b1ee3efbbcc21f45d
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6tj/Tn/RXSsesMj0e7C6Rw","kid":"d+WCDo+1XV6X08YIqHVJJw"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/011465X0-portrait.jpg",Ninja Assassin 2009
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f457ded6d048943f75fc26c_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BfXCSAXC+rkn2WV1vcICNw","kid":"OCjfpHTsu4asbjqbNwq93g"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040975X0-portrait.jpg",The Flash 2023
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64c3794dd940521074db6e41_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
