@@ -9,6 +9,7 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MqlmrWO5P/a/r+Jb7EpqUg", "kid":"Y/Ef4IHOUD2E+OCd72eXOQ" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/017484X0-portrait.jpg",300 2007
+#PLAYLIST:-123
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61b8038afbbcc21f45d24f31_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
