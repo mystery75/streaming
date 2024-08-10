@@ -203,7 +203,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="108.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-logo="" group-title="FHD",Citra 
-http://linears-playback.astro.com.my/vsg/41E31Eg8nkU_yC7pxD9pgzTyMBmgYEGzYM-3toQxmI-4c=A-m5/dash-wv/jitp-linearwm/2700/default_primary.mpd
+http://linears-playback.astro.com.my/vsg/41E31Eg8nkU_yC7pxD9pgzT_AJMpiurirV39PWfzpFFdM=HzNy/dash-wv/jitp-linearwm/2700/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
@@ -229,12 +229,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="104.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-logo="" group-title="FHD",Ria 
-http://linears-playback.astro.com.my/vsg/41qevwA9uMYnSKcebcslTfB_mYjEGX2K8XepIDs1so8ZI=A3Iu/dash-wv/jitp-linearwm/1004/default_primary.mpd
+http://linears-playback.astro.com.my/vsg/41qevwA9uMYnSKcebcslTfB4YMQuS_DNvEnK_UJJPsiU8=zfPa/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="107.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-logo="" group-title="FHD",Warna 
-http://linears-playback.astro.com.my/vsg/41WdOiwCGy3v4v5qi0e1c5gLZnx5GT1LdDX7QS5mjt1no=Yd94/dash-wv/jitp-linearwm/2402/default_primary.mpd
+http://linears-playback.astro.com.my/vsg/41WdOiwCGy3v4v5qi0e1c5gCkVoa4eHrB6rXcyhL6BrEE=fOw9/dash-wv/jitp-linearwm/2402/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KMxTZ99mbES+Q4LmSvZNVw", "kid":"YHt9IlZcS8O5X/bDPOZUJQ" } ], "type":"temporary" }
@@ -274,7 +274,7 @@ https://a2ef74f67b1f43689b5bef947c40d9ed.mediatailor.ap-southeast-1.amazonaws.co
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F24pOLznldHIVVmiRAR39w", "kid":"KGrvTo2F22bgX+Slx5nkEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="311.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_AOD_v1.png" group-logo="" group-title="FHD",AOD 
-http://linears-playback.astro.com.my/vsg/41C-rSd8jn4CQqXyylxHAQQY75UsokiSDaVnZJ7WWaCZo=mheK/dash-wv/jitp-linearwm/2706/default_primary.mpd
+http://linears-playback.astro.com.my/vsg/41C-rSd8jn4CQqXyylxHAQQTHfTFffp5KnVKiOdhqlnv4=KXSg/dash-wv/jitp-linearwm/2706/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yKD35puzHf1HXaJvxsYAOw", "kid":"YFB+8NycgT1fjHsiKUEvEA" } ], "type":"temporary" }
@@ -305,7 +305,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aMXbOzCfq1UDpv21gN3ygQ", "kid":"x3N+3R1ngk+nDfcxVL+BEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="202.astro" ch-number="202" group-logo="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Vinmeen2024.png" group-title="FHD",Vinmeen 
-http://linears-playback.astro.com.my/vsg/41yTAZb_X81Bw3oVxc0yp_TxYRt-xhGSw95ajF7LbQUrQ=weRy/dash-wv/jitp-linearwm/2105/default_primary.mpd
+http://linears-playback.astro.com.my/vsg/41yTAZb_X81Bw3oVxc0yp_T2oTEXycHLUDbR11nIKy3lo=DPEy/dash-wv/jitp-linearwm/2105/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wSi75B6U0Vp/jML2JTpUsg", "kid":"nESvi1lLYVf1XTwxvWecEA" } ], "type":"temporary" }
