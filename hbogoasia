@@ -849,9 +849,30 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fca2a096d048943f76
 #EXTINF:-1 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/030581X0-portrait.jpg",Wonder Woman 1984 2020
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bf8370d940521074c309f2_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
+
+############################################################################################################ Astro Novies ####################################################################################################
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"t81/sMWfh1FxH1q7JCt3tg", "kid":"SJIWcIrN56ok2rxNNaioEA" } ], "type":"temporary" } 
+#EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNJUS_P_IVP_PORT_476x716_2024618_163049.jpg" group-title="Astro Novies" ,Sheriff: Narko Integriti 2024 
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a6b7a042-0c3b-5264-9c13-01296926b67a/default_primary.mpd
+
+
+############################################################################################################ Astro Series ####################################################################################################
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fkEeKXwtVa2LRRPSe/nGKA", "kid":"GMcVqwVUAofh+x5uAW6vEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-title="Astro Series",Episodes 1
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a271c107-ae98-5ed9-aa81-491b804153b4/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"iqGhTEmP7HaACS/fJtPIow", "kid":"YP5FnV2FY93nvbEDgAsyEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-title="Astro Series",Episodes 2
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/658a52a6-4b33-5ae9-8ada-9fb8a823b2e7/default_primary.mpd
