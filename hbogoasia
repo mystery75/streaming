@@ -860,6 +860,14 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bf8370d940521074c
 #EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNJUS_P_IVP_PORT_476x716_2024618_163049.jpg" group-title="Astro Movies" ,Sheriff: Narko Integriti 2024 
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a6b7a042-0c3b-5264-9c13-01296926b67a/default_primary.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Y/scjsKvMNof/OVe8jbalg", "kid":"HUka1wHdRHpx2KztCjhSEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOLDW_P_IVP_PORT_476x716_202486_192357.jpg" group-title="Astro Movies" ,Takluk: Lahad Datu 2024 
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/cf09c6fd-2bf7-56bc-9c75-07d0fd2ea93f/default_primary.mpd
+
+
 
 ############################################################################################################ Astro Series ####################################################################################################
 
