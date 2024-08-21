@@ -850,7 +850,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fca2a096d048943f76
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bf8370d940521074c309f2_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 
-############################################################################################################ Astro Movies ####################################################################################################
+############################################################################################################ Astro First ####################################################################################################
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -869,7 +869,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/cf09c6fd-
 
 
 
-############################################################################################################ Astro Series ####################################################################################################
+############################################################################################################ Astro Dramas ####################################################################################################
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -903,5 +903,5 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d363c0be-
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1w3t/ADkcyAwJZ2iSfXjXw", "kid":"IeBCBFHNVq/EN5BS1z0wEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-title="Astro Series",Episodes 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-title="Astro Series",Episodes 5
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/badc5b2d-8b5d-5c98-b8cf-edfe2347ac7e/default_primary.mpd
