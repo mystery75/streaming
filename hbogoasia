@@ -920,3 +920,52 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/2f63eee3-
 #EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-title="Astro Dramas",Episodes 7
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/b1decf65-4ced-5300-9ff5-4c7c24e1d840/default_primary.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5NOXV+l8E0ICgPJ9DZVojw", "kid":"tXo5ybRKajk5lW4iLlg/EA" } ], "type":"temporary" } 
+#EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-title="Astro Dramas",Episodes 8
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c14b18fb-f8bd-547e-a9dc-ddcac977bd4a/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qoSGITk3ejyY9BKnED5+3Q", "kid":"A0vcnMEp5G2/ky5hkPYUEA" } ], "type":"temporary" } 
+#EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-title="Astro Dramas",Episodes 9
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a705e941-8b1b-5e06-9b94-aa49661e01a5/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"mJXbzNPizG6l2WOF35TiDw", "kid":"VQvz4EGXMk4dZOSGMOkSEA" } ], "type":"temporary" } 
+#EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-title="Astro Dramas",Episodes 10
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/4c39f94a-155f-5846-b4c9-d58ae1400301/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uYBkx5w+yqXojbAAAked0Q", "kid":"6Qxter86xjUWU5wikKGTEA" } ], "type":"temporary" } 
+#EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-title="Astro Dramas",Episodes 11
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/dc288404-4712-58fa-86c3-a4765e5d9dd8/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"FoNeHrjiUOui/pe1X+SOjA", "kid":"HtpNrbvKFkDfz9Xw7zR0EA" } ], "type":"temporary" } 
+#EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-title="Astro Dramas",Episodes 12
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/31297723-1d33-5dc9-a4a2-dd962d2eb238/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+uNYddxSGtCjIZT1MGWdlA", "kid":"bejSTPHtHFZUZhl7dp6GEA" } ], "type":"temporary" } 
+#EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-title="Astro Dramas",Episodes 13
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/027c2556-af84-576a-a4ac-75b0ca2c472f/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L53tcnJAqHQVnZsX4azYZQ", "kid":"AUV+7jZWt7umNpsNO5mpEA" } ], "type":"temporary" } 
+#EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-title="Astro Dramas",Episodes 14
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/292a7c4a-0ced-56a7-8d1b-79ba0bc3d1a7/default_primary.mpd
+
