@@ -857,14 +857,14 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bf8370d940521074c
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"t81/sMWfh1FxH1q7JCt3tg", "kid":"SJIWcIrN56ok2rxNNaioEA" } ], "type":"temporary" } 
-#EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNJUS_P_IVP_PORT_476x716_2024618_163049.jpg" group-title="Astro Movies" ,Sheriff: Narko Integriti 2024 
+#EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNJUS_P_IVP_PORT_476x716_2024618_163049.jpg" group-title="Astro First" ,Sheriff: Narko Integriti 2024 
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a6b7a042-0c3b-5264-9c13-01296926b67a/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Y/scjsKvMNof/OVe8jbalg", "kid":"HUka1wHdRHpx2KztCjhSEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOLDW_P_IVP_PORT_476x716_202486_192357.jpg" group-title="Astro Movies" ,Takluk: Lahad Datu 2024 
+#EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOLDW_P_IVP_PORT_476x716_202486_192357.jpg" group-title="Astro First" ,Takluk: Lahad Datu 2024 
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/cf09c6fd-2bf7-56bc-9c75-07d0fd2ea93f/default_primary.mpd
 
 
@@ -875,33 +875,48 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/cf09c6fd-
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fkEeKXwtVa2LRRPSe/nGKA", "kid":"GMcVqwVUAofh+x5uAW6vEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-title="Astro Series",Episodes 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-title="Astro Dramas",Episodes 1
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a271c107-ae98-5ed9-aa81-491b804153b4/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"iqGhTEmP7HaACS/fJtPIow", "kid":"YP5FnV2FY93nvbEDgAsyEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-title="Astro Series",Episodes 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-title="Astro Dramas",Episodes 2
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/658a52a6-4b33-5ae9-8ada-9fb8a823b2e7/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"t2uTN7SHEsC0DVXzDWwBjg", "kid":"issHXmBUhylSnra8akUdEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-title="Astro Series",Episodes 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-title="Astro Dramas",Episodes 3
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f3d25a7f-f9c9-5890-a22c-e26492b05348/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DVP6tSUhD3ylbC9aC/ECWA", "kid":"/wIuHezcOXOEt3GhsXmHEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-title="Astro Series",Episodes 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-title="Astro Dramas",Episodes 4
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d363c0be-3a6d-52c0-b380-8a9fcd85e811/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1w3t/ADkcyAwJZ2iSfXjXw", "kid":"IeBCBFHNVq/EN5BS1z0wEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-title="Astro Series",Episodes 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-title="Astro Dramas",Episodes 5
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/badc5b2d-8b5d-5c98-b8cf-edfe2347ac7e/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"G7vDrcdN/w1oF/olo2TQIQ", "kid":"gR7OD3HcnmHQErxDLY2HEA" } ], "type":"temporary" } 
+#EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-title="Astro Dramas",Episodes 6
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/2f63eee3-d59b-52c6-b07c-5d20cb9b6dcd/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QnziFOhq3kch6RpMnt9A/Q", "kid":"AfCBahEUkjodFHsL9udSEA" } ], "type":"temporary" } 
+#EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-title="Astro Dramas",Episodes 7
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/b1decf65-4ced-5300-9ff5-4c7c24e1d840/default_primary.mpd
+
