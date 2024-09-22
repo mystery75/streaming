@@ -491,7 +491,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_pri
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9HSTVNelZpTVdZdFpESXpaQzAwWkRneExUbGpZVFF0WVRVek1UTmhOamd4TW1SaCIsIndtb3BpZCI6MzIsImV4cCI6MTcyNjgyMTg2NSwiaWF0IjoxNzI2MjE3ODY1fQ.eT_39aGeibWU5qPAvd3UqDdStsM0y6fqeVvEBJmSWt4"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1XSXlNMlZtTm1JdE1UazJNUzAwWVdZd0xUZ3dPVFl0WkRrNE9HTXhZekV5WldVNCIsIndtb3BpZCI6MzIsImV4cCI6MTcyNzM5Nzc2MCwiaWF0IjoxNzI2NzkzNzYwfQ.Y19tjZIFfIO7huZcVL-6fefPLl2YoOsnyudDx-5nvHY"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }  
@@ -499,7 +499,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_pri
 https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik16VTVNMlJsT0dVdFpUTTVOUzAwWlRnNExUaGtObUV0TURsaVlqYzNZekpsWlRCaCIsIndtb3BpZCI6MzIsImV4cCI6MTcyNjc4OTk4NiwiaWF0IjoxNzI2MTg1OTg2fQ.P2LTp9jJUe_rIsp6-x22eBcz5QASdq0SZi4bxW1nFE0"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1XSXlNMlZtTm1JdE1UazJNUzAwWVdZd0xUZ3dPVFl0WkRrNE9HTXhZekV5WldVNCIsIndtb3BpZCI6MzIsImV4cCI6MTcyNzM5Nzc2MCwiaWF0IjoxNzI2NzkzNzYwfQ.Y19tjZIFfIO7huZcVL-6fefPLl2YoOsnyudDx-5nvHY"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" } 
