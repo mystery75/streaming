@@ -595,12 +595,12 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_pri
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OjNo+jhaBJaV/03jw2gJzQ", "kid":"/CPEQjVYVJkqJkkxoo/BxQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="118." ch-number="118" tvg-logo="http://playtv..com.my:7040/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png" group-logo="" group-title="",test Siar
+#EXTINF:-1 tvg-id="118." ch-number="118" tvg-logo="http://playtv..com.my:7040/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png" group-logo="" group-title="FHD",test Siar
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live31.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IH86w2yNXIU5XBRxVNQVgQ", "kid":"HNDzPbWoJshQ4O9sqTMagg" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="118." ch-number="118" tvg-logo="http://playtv..com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" group-logo="" group-title="",test Salam HD
+#EXTINF:-1 tvg-id="118." ch-number="118" tvg-logo="http://playtv..com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" group-logo="" group-title="FHD",test Salam HD
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live32.mpd
 
 #############################################################################################################################################################################################################################
